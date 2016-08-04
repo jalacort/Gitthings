@@ -1,1 +1,3 @@
 This is a Git test...
+
+A second line added
